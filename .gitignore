@@ -224,3 +224,4 @@ models/
 # Secrets
 .kaggle/
 *.env
+.ipynb_checkpoints/
