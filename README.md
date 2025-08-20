@@ -5,9 +5,13 @@ Thesis notebooks for adversarial camouflage in autonomous vehicles (YOLOv8 + exp
 ## Notebooks (open directly in Colab)
 - **final.ipynb** – end-to-end workflow and results  
   👉 https://colab.research.google.com/github/Sumanjali23/Adversarial-camouflage-in-Autonomous-Vehicles/blob/main/notebooks/final.ipynb
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sumanjali23/Adversarial-camouflage-in-Autonomous-Vehicles/blob/main/notebooks/final.ipynb)
+
 
 - **YOLOv8_Stage3_Adversarial_Training.ipynb** – training + adversarial experiments  
   👉 https://colab.research.google.com/github/Sumanjali23/Adversarial-camouflage-in-Autonomous-Vehicles/blob/main/notebooks/YOLOv8_Stage3_Adversarial_Training.ipynb
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sumanjali23/Adversarial-camouflage-in-Autonomous-Vehicles/blob/main/notebooks/YOLOv8_Stage3_Adversarial_Training.ipynb)
+
 
 ## How to run (Colab)
 1. Open a notebook using one of the links above.
