@@ -1,0 +1,12 @@
+ultralytics
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+gdown
+pyyaml
