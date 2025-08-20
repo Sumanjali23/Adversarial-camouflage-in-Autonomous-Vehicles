@@ -24,3 +24,6 @@ DATA_ID = "PASTE_YOUR_DRIVE_FILE_ID"
 !gdown --id {DATA_ID} -O data.zip
 !unzip -q data.zip -d data/
 ```
+## Run locally (optional)
+```bash
+pip install -r requirements.txt
