@@ -18,10 +18,9 @@ Thesis notebooks for adversarial camouflage in autonomous vehicles (YOLOv8 + exp
 Large datasets and weights are **excluded** from git (`data/`, `runs/`, `weights/` are ignored).
 
 **Option A – Google Drive via gdown**
-1. Upload your dataset (zip) to Google Drive → get the **File ID**.
-2. In Colab, run:
 ```python
 !pip install -q gdown
 DATA_ID = "PASTE_YOUR_DRIVE_FILE_ID"
 !gdown --id {DATA_ID} -O data.zip
 !unzip -q data.zip -d data/
+```
