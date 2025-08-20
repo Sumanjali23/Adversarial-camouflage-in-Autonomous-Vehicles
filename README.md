@@ -25,7 +25,7 @@ Large datasets and weights are **excluded** from git (`data/`, `runs/`, `weights
 ```python
 !pip install -q gdown
 DATA_ID = "1YzRfUeD6LOru8fdzQi4ElmkqpibxarEK"
-!gdown --id {DATA_ID} -O data.zip
+!gdown {DATA_ID} -O data.zip
 !unzip -q data.zip -d data/
 ```
 ## Run locally (optional)
