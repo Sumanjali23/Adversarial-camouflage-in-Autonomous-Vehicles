@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Keep big/binary stuff out of git
+data/
+datasets/
+runs/
+weights/
+checkpoints/
+models/
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
+# Secrets
+.kaggle/
+*.env
