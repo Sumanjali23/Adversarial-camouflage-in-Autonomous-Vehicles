@@ -24,7 +24,7 @@ Large datasets and weights are **excluded** from git (`data/`, `runs/`, `weights
 **Option A – Google Drive via gdown**
 ```python
 !pip install -q gdown
-DATA_ID = "PASTE_YOUR_DRIVE_FILE_ID"
+DATA_ID = "1YzRfUeD6LOru8fdzQi4ElmkqpibxarEK"
 !gdown --id {DATA_ID} -O data.zip
 !unzip -q data.zip -d data/
 ```
