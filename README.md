@@ -55,3 +55,27 @@ unzip -q data.zip -d data/
 ---
 
 ## 📁 Project Structure
+📦 Adversarial-camouflage-in-Autonomous-Vehicles
+┣ 📂 notebooks/
+┃ ┣ 📓 final.ipynb
+┃ ┗ 📓 YOLOv8_Stage3_Adversarial_Training.ipynb
+┣ 📄 requirements.txt
+┗ 📄 .gitignore
+
+> ⚠️ `data/`, `runs/`, and `weights/` directories are git-ignored due to size.
+
+---
+
+## 🔬 Topics
+
+`computer-vision` `adversarial-attacks` `yolov8` `autonomous-vehicles` `pgd` `fgsm` `pytorch` `deep-learning`
+
+---
+
+## 📜 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+<p align="center">Made with 🔬 by <a href="https://github.com/Sumanjali23">Grace Sumanjali Pagolu</a></p>
